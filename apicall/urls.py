@@ -19,5 +19,6 @@ from  . import views
 
 
 urlpatterns = [
-   path("d/", views.n2_sender),
+   path("request", views.api_request),
+   path("test", views.api_test),
 ]

@@ -19,5 +19,4 @@ from django.urls import include, path
 
 urlpatterns = [
     path('apicall/', include('apicall.urls')),
-    path("admin_/", admin.site.urls),
 ]
