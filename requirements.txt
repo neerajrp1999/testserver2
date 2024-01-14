@@ -4,7 +4,7 @@ whitenoise
 gunicorn
 firebase-admin
 face_recognition
-opencv-python
+opencv-python-headless
 certifi==2020.6.20
 chardet==3.0.4
 decorator==4.4.2

@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-_3$q8px0!lc*mx9dd9ujm5o_h8z@6j(j@3eh+$m9rzw&!t$8=c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost","*","127.0.0.1"]
+ALLOWED_HOSTS = ["https://eyeserv-f0d4170d78ba.herokuapp.com/","localhost","*","127.0.0.1"]
 
 
 # Application definition
